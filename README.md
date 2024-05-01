@@ -1,16 +1,31 @@
-### Hi there 👋
+### 👋 About Me
 
-<!--
-**Ahsan-mw/Ahsan-mw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm an experienced Frontend Developer, dedicated to creating outstanding user interfaces and implementing reliable backend solutions. My focus lies in mastering Next.js while also exploring various backend technologies.
 
-Here are some ideas to get you started:
+### 🚀 Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My forte lies in designing engaging user interfaces that guarantee top-notch UI/UX experiences. From single-page applications to intricate web projects, my expertise ensures the flawless execution of exceptional frontend development endeavors.
+
+
+<h2> Skills <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk0amVkZDZmdGRkc2p3ODA5dnl4ZHkzdzB4ZXBxZzduaWxxdTEzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YIoRLftPZQCFSQXIzp/giphy.gif" width=40px></h2>
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=tailwind,react,nextjs,flask,django,express,mongodb,postgres,mysql,prisma)](https://skillicons.dev)
+
+<h2> GitHub Stats <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5jZGk1bXZhOXd5dXEzZ2RudGVnYXBwYW9lMDE1ZXJuNmNxbnhteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.gif" width=48px></h2>
+<p align="left">
+  <a href="https://github.com/Mohsin-mw">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahsan-mw&rank_icon=percentile&show_icons=true&theme=algolia&show=reviews&border_radius=8" />
+   
+   
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-mw&theme=algolia&layout=compact&count-private=true&hide=jupyter%20notebook,Vue,Blade,HTML" />
+  </a>
+</p>
+
+<h2> Digital Badges <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDYxY2hsdW51Mmk1Y3I5aXQ2bmIxNDM1eG11aGh1d3p3aGFrNGs1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7xiy8jp0OiGSzcokZL/giphy.gif" width=40px></h2>
+<p align="left">
+  <a href="https://www.holopin.io/@mohsinmw#badges">
+    <img height="80em" src="https://github.com/Mohsin-mw/Mohsin-mw/assets/122507740/239a6866-8d22-4450-b26d-ed8df711dcb6)" />
+  </a>
+</p>
