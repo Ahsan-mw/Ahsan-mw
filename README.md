@@ -1,10 +1,10 @@
 ### 👋 About Me
 
-Hello! I'm an experienced Frontend Developer, dedicated to creating outstanding user interfaces and implementing reliable backend solutions. My focus lies in mastering Next.js while also exploring various backend technologies.
+Hello! I'm an experienced Frontend Developer, dedicated to creating outstanding user interfaces and implementing reliable backend solutions. My focus lies in mastering Flutter while also exploring various backend technologies.
 
 ### 🚀 Expertise
 
-My forte lies in designing engaging user interfaces that guarantee top-notch UI/UX experiences. From single-page applications to intricate web projects, my expertise ensures the flawless execution of exceptional frontend development endeavors.
+My forte lies in designing engaging user interfaces that guarantee top-notch UI/UX experiences. From simple mobile applications to complex projects, my expertise ensures the flawless execution of exceptional Android development endeavors
 
 
 <h2> Skills <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk0amVkZDZmdGRkc2p3ODA5dnl4ZHkzdzB4ZXBxZzduaWxxdTEzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YIoRLftPZQCFSQXIzp/giphy.gif" width=40px></h2>
