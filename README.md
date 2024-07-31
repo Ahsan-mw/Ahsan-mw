@@ -1,6 +1,6 @@
 ### 👋 About Me
 
-Hello! I'm an experienced Frontend Developer, dedicated to creating outstanding user interfaces and implementing reliable backend solutions. My focus lies in mastering Flutter while also exploring various backend technologies.
+Hello! I'm an experienced Android Developer, dedicated to creating outstanding user interfaces and implementing reliable backend solutions. My focus lies in mastering Flutter while also exploring various backend technologies.
 
 ### 🚀 Expertise
 
