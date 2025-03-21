@@ -23,9 +23,4 @@ My forte lies in designing engaging user interfaces that guarantee top-notch UI/
   </a>
 </p>
 
-<h2> Digital Badges <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDYxY2hsdW51Mmk1Y3I5aXQ2bmIxNDM1eG11aGh1d3p3aGFrNGs1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7xiy8jp0OiGSzcokZL/giphy.gif" width=40px></h2>
-<p align="left">
-  <a href="https://www.holopin.io/@mohsinmw#badges">
-    <img height="80em" src="https://github.com/Mohsin-mw/Mohsin-mw/assets/122507740/239a6866-8d22-4450-b26d-ed8df711dcb6)" />
-  </a>
-</p>
+
